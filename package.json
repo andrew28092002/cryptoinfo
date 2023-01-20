@@ -39,5 +39,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@ant-design/icons": "^4.8.0",
+    "@reduxjs/toolkit": "^1.9.1",
+    "antd": "^5.1.2",
+    "chart.js": "^4.2.0",
+    "html-react-parser": "^3.0.7",
+    "millify": "^5.0.1",
+    "moment": "^2.29.4",
+    "node-sass": "^7.0.3",
+    "react-chartjs-2": "^5.2.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.6.1",
+    "redux": "^4.2.0"
   }
 }
