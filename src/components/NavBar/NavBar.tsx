@@ -25,7 +25,7 @@ const getItem = (
 };
 
 const items: MenuProps["items"] = [
-  getItem(<Link to="/">Home</Link>, "home", <HomeOutlined />),
+  getItem(<Link to="/cryptoinfo">Home</Link>, "home", <HomeOutlined />),
   getItem(
     <Link to="/cryptocurrencies">Cryptocurrencies</Link>,
     "cryptocurrencies",
