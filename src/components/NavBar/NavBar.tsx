@@ -63,7 +63,7 @@ const NavBar: FC = () => {
       <div className="logo-container">
         <Avatar src={icon} size="large" />
         <Title level={2} className="logo">
-          <Link to="/" style={{ whiteSpace: "nowrap" }}>
+          <Link to="/cryptoinfo" style={{ whiteSpace: "nowrap" }}>
             Cryptoverse
           </Link>
         </Title>
