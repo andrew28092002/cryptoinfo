@@ -13,7 +13,7 @@ const MainComponent = () => {
       <Layout>
         <div className="routes">
           <Routes>
-            <Route path="/" element={<HomePage />} />
+            <Route path="/cryptoinfo" element={<HomePage />} />
             <Route path="/news" element={<NewsPage />} />
             <Route path="/cryptocurrencies" element={<CryptoCurrencies />} />
             <Route path="/crypto/:coinId" element={<CryptoDetails />} />

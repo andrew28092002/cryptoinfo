@@ -31,11 +31,6 @@ const items: MenuProps["items"] = [
     "cryptocurrencies",
     <FundOutlined />
   ),
-  getItem(
-    <Link to="/exchanges">Exchanges</Link>,
-    "exchanges",
-    <MoneyCollectOutlined />
-  ),
   getItem(<Link to="/news">News</Link>, "news", <BulbOutlined />),
 ];
 
