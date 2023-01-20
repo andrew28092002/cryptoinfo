@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cryptoinfo/static/css/main.afe181c6.css",
-    "main.js": "/cryptoinfo/static/js/main.ffd325a3.js",
+    "main.js": "/cryptoinfo/static/js/main.cdf6048b.js",
     "static/media/cryptocurrency.png": "/cryptoinfo/static/media/cryptocurrency.1548aced3f0605895bac.png",
     "index.html": "/cryptoinfo/index.html",
     "main.afe181c6.css.map": "/cryptoinfo/static/css/main.afe181c6.css.map",
-    "main.ffd325a3.js.map": "/cryptoinfo/static/js/main.ffd325a3.js.map"
+    "main.cdf6048b.js.map": "/cryptoinfo/static/js/main.cdf6048b.js.map"
   },
   "entrypoints": [
     "static/css/main.afe181c6.css",
-    "static/js/main.ffd325a3.js"
+    "static/js/main.cdf6048b.js"
   ]
 }
